@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+}
+
+@media screen and (max-width: 850px) {
+
+}
+
+@media screen and (max-width: 569px) {
+
+}
+
+@media screen and (max-width: 410px) {
+
+}
+body{
+    background-color: hsl(240, 75%, 98%) hsl(0, 0%, 75%);
+}
